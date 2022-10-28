@@ -17,4 +17,11 @@
     <string name="clr">CLR</string>
     <string name="add">+</string>
     <string name="equals">=</string>
+    <string name="decimal_point">.</string>
+    <string name="error_invalid_operator">Invalid Operator!</string>
+    <string name="toast_already_point">There is already a decimal point in this number!</string>
+    <string name="toast_number_before_operator">You need to enter a number before the operator!</string>
+    <string name="toast_number_before_next">You need to enter a number for the first calculation before trying the next one!</string>
+    <string name="toast_clear_before_start_again">Clear and start again for a new calculation, we will soon add new functionality for chaining them!</string>
+    <string name="toast_numbers_for_calculation_to_work">Input some numbers for the calculation to work first!</string>
 </resources>
